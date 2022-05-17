@@ -13,15 +13,14 @@
     "react-scripts": "4.0.3",
     "react-transition-group": "^4.4.2",
     "sass": "^1.35.1",
-    "web-vitals": "^1.0.1",
-    "yarn": "^1.22.18"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-page -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +43,5 @@
     "gh-pages": "^4.0.0",
     "url-loader": "^4.1.1"
   },
-  "homepage": "https://keonmon.github.io/"
+  "homepage": "https://keonmon.github.io"
 }
