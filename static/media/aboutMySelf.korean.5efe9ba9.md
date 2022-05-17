@@ -15,7 +15,7 @@
 
 
 
-`Java`, `SpringFramework`, `Javascript`에 +R+강점+R+이 있습니다.
+`Java`, `SpringFramework`, `Node.js`에 강점이 있습니다.
 
 
 <!-- ## - +R+Red HighLight+R+
