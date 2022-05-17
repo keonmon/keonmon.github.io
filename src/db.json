@@ -6,11 +6,10 @@
   "aboutMe": {
     "name": "Keon-Hee Lee",
     "nickName": "안녕하세요!🙋‍♂️\n웹개발자를 꿈꾸는 '이건희'입니다!",
-    "profileImg": "../assets/images/img1.jpg",
+    "profileImg": "/build/assets/images/img1.jpg",
     "email": "montoo@kakao.com",
     "githubUrl": "https://github.com/keonmon",
-    "blogUrl": "https://montoo.tistory.com/",
-    "linkedInUrl": "https://www.linkedin.com/"
+    "blogUrl": "https://montoo.tistory.com/"
   },
 
   "skillSets": [
@@ -51,7 +50,7 @@
 
   "projects": [
     {
-      "imgUrl": "/assets/images/MealzoMain.jpg",
+      "imgUrl": "/build/assets/images/img1.jpg",
       "githubUrl": "https://github.com/keonmon/MealZo_final",
       "projectUrl": "",
       "title": "밀조 (Mealzo)",

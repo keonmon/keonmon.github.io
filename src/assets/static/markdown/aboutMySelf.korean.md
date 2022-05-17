@@ -8,8 +8,8 @@
 
 <br />
 
-- +B+제 Github은 .. [www.github.com/keonmon](www.github.com/keonmon)+B+ 입니다.
-- +B+제 블로그는 .. [montoo.tisory.com](montoo.tisory.com)+B+ 입니다.
+- +B+제 Github은 .. [www.github.com/keonmon](https://www.github.com/keonmon)+B+ 입니다.
+- +B+제 블로그는 .. [montoo.tistory.com](https://montoo.tistory.com/)+B+ 입니다.
 
 <br />
 

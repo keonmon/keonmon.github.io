@@ -123,7 +123,7 @@ const AboutMe = () => {
           </div>
         </div>
         <div className='introduce'>
-          <div className='subtitle'>Let me Introduce myself</div>
+          <div className='subtitle'>Introduce</div>
           <div className='about' ref={aboutMyselfRef}></div>
         </div>
       </div>
