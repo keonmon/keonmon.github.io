@@ -4,9 +4,9 @@
     "defaultLanguage": "Korean"
   },
   "aboutMe": {
-    "name": "Keon-Hee Lee",
-    "nickName": "안녕하세요!🙋‍♂️\n웹개발자를 꿈꾸는 '이건희'입니다!",
-    "profileImg": "/build/assets/images/img1.jpg",
+    "name": "Keon-Hee Lee  이건희",
+    "nickName": "keonmon",
+    "profileImg": "assets/images/img1.jpg",
     "email": "montoo@kakao.com",
     "githubUrl": "https://github.com/keonmon",
     "blogUrl": "https://montoo.tistory.com/"
@@ -16,43 +16,62 @@
     {
       "category": "Front End Skills",
       "skills": [
-        { "skill": "HTML/CSS", "level": "3" },
-        { "skill": "Javascript", "level": "3" }
+        { "skill": "HTML5/CSS3", "level": "3" },
+        { "skill": "Javascript", "level": "3" },
+        { "skill": "React", "level": "2"},
+        { "skill": "Node.js", "level": "2" }
       ]
     },
     {
       "category": "Back End Skills",
       "skills": [
-        { "skill": "Java", "level": "3" },
-        { "skill": "Spring", "level": "3" },
+        { "skill": "Java", "level": "4" },
+        { "skill": "Spring", "level": "4" },
+        { "skill": "SpringBoot", "level": "4" },
+        { "skill": "thymeleaf", "level": "4" },
         { "skill": "Oracle pl/Sql", "level": "3" },
         { "skill": "Mysql", "level": "2" },
-        { "skill": "MyBatis", "level": "2" },
-        { "skill": "Node.js", "level": "2" },
-        { "skill": "Kotlin", "level": "2" }
+        { "skill": "PostgreSQL", "level": "3" },
+        { "skill": "Apache Tomcat", "level": "3" },
+        { "skill": "MyBatis", "level": "3" },
+        { "skill": "Kotlin", "level": "1" }
       ]
     },
     {
       "category": "Collaboration Skills",
       "skills": [
-        { "skill": "Git/Github" }
+        { "skill": "Git/Github" },
+        { "skill": "SVN" }
       ]
     },
     {
       "category": "Etc...",
       "skills": [
+        { "skill": "Notion" },
         { "skill": "Soucetree" },
-        { "skill": "Gradle" },
-        { "skill": "Maven" }
+        { "skill": "GitHub" },
+        { "skill": "Eclipse" },
+        { "skill": "VSCode" },
+        { "skill": "IntelliJ IDEA" }
       ]
     }
   ],
 
   "projects": [
     {
+      "imgUrl": "/build/assets/images/projectImg2.png",
+      "githubUrl":"https://github.com/keonmon/Ogam_Project",
+      "projectUrl":"https://github.com/keonmon/Ogam_Project",
+      "title":"오늘의 감정",
+      "term":"22.10.28 ~ 22.11.17",
+      "description":"이모지를 통해 자신의 감정을 표현하는 감정일기 서비스",
+      "attribution":"프로젝트 기획/총괄, 메인 대시보드, 일기 작성, 일기 상세 보기, 댓글/좋아요/신고기능 카카오톡 로그인 등 구현",
+      "tags": ["SpringBoot","Java","thymeleaf","HTML5","CSS3","javascript","jquery","OracleCloud","ajax","Apache maven"]
+    },
+    {
       "imgUrl": "/build/assets/images/img1.jpg",
       "githubUrl": "https://github.com/keonmon/MealZo_final",
-      "projectUrl": "",
+      "projectUrl": "https://github.com/keonmon/MealZo_final",
       "title": "밀조 (Mealzo)",
       "term": "22.02.07~22.02.25, 22.03.28~22.05.17",
       "description": "spring boot를 이용하여 제작한 온라인 밀키트 쇼핑몰",
@@ -61,8 +80,14 @@
     }
   ],
 
-  "timestamp": [
 
+  "timestamp": [
+    {
+      "title": "LG CNS U-CAMP 36기 (LG CNS U-CAMP 36th)",
+      "when": "22.09.13 ~22.11.18",
+      "organizer": "LG CNS",
+      "tags": ["techcourse"]
+    },
     {
       "title": "이젠 아카데미 (EZEN Academy)",
       "when": "21.10.18 - 22.05.11",
@@ -70,7 +95,7 @@
       "tags": ["techcourse"]
     },
     {
-      "title": "청운 대학교 (Chungwoon University)",
+      "title": "청운대학교 (Chungwoon University)",
       "when": "~16.08.18",
       "organizer": "University of Chungwoon",
       "tags": ["graduation"]
@@ -80,12 +105,12 @@
 
   "educations": [
     {
-      "title": "청운 대학교 (Chungwoon University)",
+      "title": "청운대학교 (Chungwoon University)",
       "term": "2010.03 - 2016.08",
       "description": "방송영상학과 졸업"
     },
     {
-      "title": "금촌 고등학교 (Geumchon High School)",
+      "title": "금촌고등학교 (Geumchon High School)",
       "term": "2007.03 - 2010.02",
       "description": "인문계 졸업"
     }

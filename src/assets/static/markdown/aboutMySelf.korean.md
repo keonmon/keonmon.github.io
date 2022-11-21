@@ -1,23 +1,42 @@
 <br />
 
-# 안녕하세요!😀
+# 안녕하세요!
 
-## 제 이름은 **'이건희'**입니다.
+## +B+끊임없이 공부하고 도전+B+하여, +B+오늘보다 내일 더 나은 개발자+B+가 되기 위해 노력하는, 🧑‍💻
 
-## +G+저는 백엔드 개발자 입니다!+G+ 🧑‍💻
-
-<br />
-
-- +B+제 Github은 .. [www.github.com/keonmon](https://www.github.com/keonmon)+B+ 입니다.
-- +B+제 블로그는 .. [montoo.tistory.com](https://montoo.tistory.com/)+B+ 입니다.
+## +G+Backend 개발자, '이건희'입니다.+G+🙋‍♂️
 
 <br />
+<br />
+
+## 저는, 
+
+## - +B+동료와 함께 시너지를 일으키는+B+, 
+
+- 동료들과 지식과 경험을 나누며 함께 성장하는 것을 선호합니다. 
+
+## - +R+새로움에 흥미를 느끼는+R+, 
+
+- 문제를 해결함에 있어 새로운 것에 도전하고, 분석하는 것을 즐깁니다. 
+
+## - +G+세상에 기여할 수 있는 코드+G+를 만들고 싶은 사람입니다. 
+
+- 제가 가진 기술로, 어떤 가치를 만들어낼 수 있는지 끊임없이 고민합니다. 
+
+<br/>
+<br />
+
+#### - 제 **Github**은 .. [github.com/keonmon](https://github.com/keonmon)입니다.
+
+#### - 제 **블로그**는 .. [montoo.tistory.com](https://montoo.tistory.com)입니다.
+
+<br />
+<br />
 
 
+`Java`, `SpringFramework`, `Node.js`에 **강점**이 있습니다.
 
-`Java`, `SpringFramework`, `Javascript`에 +R+강점+R+이 있습니다.
-
-
+<br />
 <!-- ## - +R+Red HighLight+R+
 
 ## - +G+Green HighLight+G+
